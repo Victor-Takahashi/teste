@@ -1,54 +1,68 @@
 # Introdução
 
-Imagine que você deseja apresentar este projeto para investidores que deverão decidir se investem ou não no desenvolvimento da sua ferramenta.
-
-A **Introdução** consiste das etapas: *Contextualização -- Definição do problema -- Definição dos Objetivos -- Justificativa*, e tem como função situar o seu trabalho dentro de um contexto de mercado e mostrar a importância da sua proposta para resolver a dor de um usuário.
-
-
-A Contextualização deve situar sem projeto em um determinado contexto de mercado, a fim de fornecer informações adicionais que possam ajudar a entender melhor o assunto que você irá abordar. Serve também para definir a relevância do seu assunto, uma vez que mostra o tamanho do mercado em que se está inserido. Ela pode envolver a análise de vários aspectos, como o ambiente histórico, cultural, político e social em que o problema a ser atacado surgiu.
-
-Escreva de 2 a 3 parágrafos para contetualizar o seu projeto.
+A crescente popularização dos jogos online tem criado um cenário em que jogadores de todo o mundo podem se conectar e competir virtualmente. No entanto, à medida que a indústria de jogos evolui, é evidente que surjam problemas na experiência dos jogadores. Nesse contexto, este projeto visa a criação da plataforma Matchtime com intuito de trazer maior conexão e possibilidade da criação de vínculos e amizades. Permitirá que encontre a comunidade que mais lhe agrada para jogar, uma interação social mais rica, competições mais equilibradas e uma maior personalização das experiências de jogo. Buscando nivelar e selecionar a melhor conexão para o usuário, voltada tanto para iniciantes quanto para veteranos em qualquer jogo. 
 
 ## Problema
 
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
+Partidas desbalanceadas: Muitos jogos apresentam uma falta de acolhimento aos iniciantes. Em muitos casos, os mesmos encontram partidas com jogadores mais experientes ou até de alto nível. Isso contribui negativamente para o desenvolvimento da comunidade do jogo e pode acarretar na desistência/evasão de usuários.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
+Comunidade tóxica: Dados da ONG Anti-Defamation League, uma organização não governamental judaica internacional com sede nos Estados Unidos, confirmam a postura de jogadores cada vez mais tóxicos, e como isso está ligado ao modo competitivo dos jogos. Cada comunidade de cada jogo tem suas características, no entanto, usuários tóxicos são comuns em todas. A seleção aleatoria de jogadores trás usuários que frequentemente utilizam de vocabulario hostil e comentários ofensivos e espalham ódio sem contexto.
 
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
+A pesquisa aponta um dado interessante, os primeiros lugares na lista de jogos mais tóxicos estão DOTA e CSGO, dois dos 10 jogos mais jogados do mundo.
 
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+Assédio: De acordo com estudo divulgado em Julho de 2019, diversos jogadores já sofreram algum tipo de assédio durante uma partida. Várias mulheres relatam problemas graves ao jogar online. Desde assédio sexual até importunação sexual com palavras ofensivas e envio de fotos pornográficas, optando até mesmo a utilizarem nomes de usuário masculino para evitar assédios diários.
+
+Discriminação: Um estudo da Anti-Defamation League, entrevistou 1045 pessoas, das quais 700 (67%) ja sofreram algum tipo de discriminação nos jogos. Diferença de cultura, idade, religião, condições financeiras e até mesmo etnia, são os principais pontos atacados.
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+O Matchtime foi pensado para ser a plataforma mais inclusiva do universo dos games, tendo como objetivos;
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+-Fornecer uma experiência rica e inovadora ao usuário, com foco na socialização.
+-Ser referência para jogadores que buscam interações de alta qualidade em seus jogos favoritos.
+-Criar conexões sólidas entre jogadores.
+-Ter um critério justo para selecionar jogadores e criar comunidades.
+-Ser de fácil acesso ao usuário, com uma interface limpa e convidativa.
+-Facilitar a comunicação entre jogadores.
+-Ser rentável por meio da venda de pacotes exclusivos, benefícios e exibição de anúncios.
+
+**Visão Geral:**
+
+A Plataforma de Interação de Jogadores e Criação de Partidas visa proporcionar uma experiência online mais rica e envolvente para os jogadores, abrindo espaço para a socialização, competição justa e personalização das experiências de jogo. Focado na criação de uma comunidade unida e no equilíbrio das partidas, o projeto tem como objetivo tornar-se uma referência para jogadores que buscam interações de alta qualidade em seus jogos favoritos. Dentre os recursos desenvolvidos que nos tornam exclusivos e nos farão alcançar o objetivo, se encontram:
+
+-Perfil de Jogador: Cada usuário terá um perfil personalizável, onde poderá exibir suas estatísticas, conquistas e preferências de jogo. Isso ajudará a conectar jogadores com interesses semelhantes e níveis de habilidade compatíveis.
+
+-Sistema de Níveis e Habilidades: O site implementará um sistema de classificação que avaliará a habilidade dos jogadores com base em seu desempenho nas partidas. Isso garantirá que os grupos formados sejam equilibrados, proporcionando uma experiência mais justa e desafiadora.
+
+-Criação de Partidas Personalizadas: Os jogadores terão a capacidade de criar partidas personalizadas, definindo regras específicas, mapas e limitações. Isso é especialmente útil para jogadores que desejam jogar com amigos ou experimentar desafios exclusivos.
+
+-Criação de Partidas Competitivas: Os jogadores poderão participar de partidas competitivas, onde serão agrupados com base em suas classificações e histórico de desempenho. Isso promoverá partidas mais intensas e emocionantes, com um alto nível de competitividade.
+
+-Sistema de Convites: A plataforma oferecerá um sistema de convites que permitirá que os jogadores convidem seus amigos para partidas, grupos ou eventos. Isso tornará mais fácil coordenar jogos entre amigos e colegas.
+
+-Calendário de Eventos: Um calendário de eventos listará torneios, competições e outros eventos organizados pela comunidade. Isso incentivará a participação ativa dos jogadores.
+
+-Fóruns e Chat: A plataforma contará com fóruns de discussão e recursos de chat para facilitar a comunicação entre os jogadores. Isso permitirá a troca de informações, estratégias e interação geral.
+
+-Personalização de Perfil: Além das estatísticas de jogo, os jogadores poderão personalizar seus perfis com avatares, temas e informações pessoais.
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+A criação da plataforma Matchtime surge como uma resposta para os problemas mais significativos para a comunidade de jogadores de jogos online. Considerando os desafios relacionados a jogadores tóxicos, assédio, discriminação e desbalanceamento de partidas, esta plataforma desempenha um papel fundamental na melhoria da experiência de jogo e na construção de comunidades mais saudáveis e inclusivas. Abaixo, está uma justificativa abrangente para o desenvolvimento desta plataforma:
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+1. Combate a Toxicidade, Assédio e Discriminação: O Matchtime se compromete a criar um ambiente de jogo com políticas claras e sistemas de moderação para combater a toxicidade e o assédio. Para o auxilio da moderação o Matchtime constará com um sistema ativo de denuncias, criando assim uma comunidade melhor e mais acolhedora para os mais diversos tipos de jogadores.
+2. Melhoria na Qualidade das Partidas: O desbalanceamento de partidas pode levar a experiências frustrantes, onde jogadores novatos enfrentam jogadores experientes.
+Aprimorando o sistema de classificação, o Matchtime busca garantir que as partidas sejam mais equilibradas e emocionantes para todos os jogadores. Isso torna o jogo mais justo e gratificante, incentivando a retenção de jogadores.
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+O público-alvo do projeto Matchtime abrange diversos grupos de jogadores com diferentes preferências e estilos de jogo. Aqui está uma análise do público-alvo:
+1. Jogadores de Jogos Online: Este grupo é composto por jogadores entusiastas que dedicam uma quantidade significativa de tempo aos jogos online. Eles procuram uma plataforma que aprimore sua experiência de jogo, oferecendo recursos como comunidades, partidas equilibradas e comunicação eficiente.
+2. Jogadores Casuais: Os jogadores casuais jogam por diversão nas horas vagas e buscam experiências de jogo acessíveis e amigáveis. Eles valorizam a facilidade de uso e a oportunidade de conhecer novas pessoas durante as partidas.
+3.  Organizadores de Eventos e Comunidades: Este grupo inclui jogadores apaixonados que desejam criar e gerenciar eventos, torneios e comunidades em torno de seus jogos favoritos. Eles procuram ferramentas robustas para facilitar a organização e a interação com membros.
+4.  Jogadores Preocupados com a Diversidade e a Inclusão: Este grupo é sensível à discriminação e ao assédio nos jogos online. Eles estão interessados em plataformas que promovam a inclusão, a diversidade e a segurança para todos os jogadores.
+5.  Iniciantes e Novatos em Jogos Online: Jogadores que estão começando a explorar os jogos online e desejam uma plataforma que os ajude a aprender, evoluir e se conectar com outros jogadores sem se sentirem sobrecarregados.
+6.  Jogadores que Busca de um Ambiente de Jogo Mais Positivo: Jogadores que estão cansados de comportamentos tóxicos e assédio em outras plataformas e buscam um ambiente mais positivo e acolhedor.
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
 
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
