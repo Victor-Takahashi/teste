@@ -7,7 +7,6 @@ As tecnologias que serão utilizadas no fron-end são: HTML, CSS, Boostrap, Jque
 Os jogadores de jogos online muitas vezes enfrentam dificuldades em encontrar uma comunidade de jogadores com interesses e habilidades semelhantes. Isso resulta em experiências solitárias e partidas desequilibradas. Além disso, a comunicação entre jogadores é essencial, mas muitas vezes é limitada a aplicativos externos. O MatchTime visa resolver essa falta de comunicação e gerar encontros entre os gamers.
 
 
-
 ## Personas
 
 Lucas tem 24 anos e é um jogador altamente competitivo. Ele adora jogos de tiro em primeira pessoa e jogos de estratégia em equipe. Ele passa muitas horas por dia jogando e está sempre em busca de novos desafios. Ele quer competir em partidas de nível profissional e disputar campeonatos. Lucas procura um sistema de classificação confiável e partidas equilibradas para se manter no jogo. E tem como prioridade a fácil comunicação entre jogadores.
