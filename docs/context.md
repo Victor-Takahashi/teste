@@ -28,23 +28,7 @@ O Matchtime foi pensado para ser a plataforma mais inclusiva do universo dos gam
 
 **Visão Geral:**
 
-A Plataforma de Interação de Jogadores e Criação de Partidas visa proporcionar uma experiência online mais rica e envolvente para os jogadores, abrindo espaço para a socialização, competição justa e personalização das experiências de jogo. Focado na criação de uma comunidade unida e no equilíbrio das partidas, o projeto tem como objetivo tornar-se uma referência para jogadores que buscam interações de alta qualidade em seus jogos favoritos. Dentre os recursos desenvolvidos que nos tornam exclusivos e nos farão alcançar o objetivo, se encontram:
-
--Perfil de Jogador: Cada usuário terá um perfil personalizável, onde poderá exibir suas estatísticas, conquistas e preferências de jogo. Isso ajudará a conectar jogadores com interesses semelhantes e níveis de habilidade compatíveis.
-
--Sistema de Níveis e Habilidades: O site implementará um sistema de classificação que avaliará a habilidade dos jogadores com base em seu desempenho nas partidas. Isso garantirá que os grupos formados sejam equilibrados, proporcionando uma experiência mais justa e desafiadora.
-
--Criação de Partidas Personalizadas: Os jogadores terão a capacidade de criar partidas personalizadas, definindo regras específicas, mapas e limitações. Isso é especialmente útil para jogadores que desejam jogar com amigos ou experimentar desafios exclusivos.
-
--Criação de Partidas Competitivas: Os jogadores poderão participar de partidas competitivas, onde serão agrupados com base em suas classificações e histórico de desempenho. Isso promoverá partidas mais intensas e emocionantes, com um alto nível de competitividade.
-
--Sistema de Convites: A plataforma oferecerá um sistema de convites que permitirá que os jogadores convidem seus amigos para partidas, grupos ou eventos. Isso tornará mais fácil coordenar jogos entre amigos e colegas.
-
--Calendário de Eventos: Um calendário de eventos listará torneios, competições e outros eventos organizados pela comunidade. Isso incentivará a participação ativa dos jogadores.
-
--Fóruns e Chat: A plataforma contará com fóruns de discussão e recursos de chat para facilitar a comunicação entre os jogadores. Isso permitirá a troca de informações, estratégias e interação geral.
-
--Personalização de Perfil: Além das estatísticas de jogo, os jogadores poderão personalizar seus perfis com avatares, temas e informações pessoais.
+A Plataforma de Interação de Jogadores e Criação de Partidas visa proporcionar uma experiência online mais rica e envolvente para os jogadores, abrindo espaço para a socialização, competição justa e personalização das experiências de jogo. Focado na criação de uma comunidade unida e no equilíbrio das partidas, o projeto tem como objetivo tornar-se uma referência para jogadores que buscam interações de alta qualidade em seus jogos favoritos.
 
 ## Justificativa
 
