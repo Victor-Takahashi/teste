@@ -6,19 +6,12 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+Lucas tem 24 anos e é um jogador altamente competitivo. Ele adora jogos de tiro em primeira pessoa e jogos de estratégia em equipe. Ele passa muitas horas por dia jogando e está sempre em busca de novos desafios. Ele quer competir em partidas de nível profissional e disputar campeonatos. Lucas procura um sistema de classificação confiável e partidas equilibradas para se manter no jogo. E tem como prioridade a fácil comunicação entre jogadores.
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+Ana é uma jogadora casual de 30 anos que gosta de jogos de tiro. Ela joga principalmente para relaxar e se divertir. Ana joga algumas vezes por semana e adora conhecer novas pessoas enquanto joga. Ana procura uma plataforma onde possa se unir a comunidades amigáveis, participar de eventos sociais e explorar novos jogos. Ana busca uma interface amigável, chat de texto e/ou voz para comunicação e a capacidade de encontrar jogadores com interesses semelhantes.
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+Miguel é um jogador de 28 anos que adora organizar torneios entre amigos. Miguel passa muito tempo jogando com vários e amigos e vê a necessidade de incluir todos em suas partidas. Ele está sempre em busca de novos jogadores para participar de seus jogos personalizados. Miguel procura uma plataforma onde possa promover seus eventos, atrair participantes e manter suas comunidades de jogadores.
+
 
 ## Histórias de Usuários
 
