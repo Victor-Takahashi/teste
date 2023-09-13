@@ -8,7 +8,7 @@
 
 `SEMESTRE: 1º`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Este projeto visa a criação de um sistema para unir as comunidades de vários jogos online. O objetivo do projeto é facilitar a interação entre jogadores, permitir a criação de grupos equilibrados por nível de habilidade e oferecer a capacidade de organizar partidas personalizadas de maneira simples e eficiente.
 
 ## Integrantes
 
