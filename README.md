@@ -20,7 +20,7 @@ Este projeto visa a criação de um sistema para unir as comunidades de vários 
 
 ## Orientador
 
-* Fabio Cordeiro
+* Fábio Leandro Rodrigues Cordeiro
 
 # Planejamento
 
