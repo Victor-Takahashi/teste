@@ -1,10 +1,12 @@
 # Especificações do Projeto
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
+ O MatchTime visa reunir jogadores em comunidades balanceadas com base em seus níveis de classificação no jogo, fornecendo recursos de chat e voice chat, bem como a capacidade de participar de eventos e partidas públicas e privadas.
+ 
 As tecnologias que serão utilizadas no fron-end são: HTML, CSS, Boostrap, Jquery. Já na parte do back-end será utilizado: JavaScript ou Json Cruds.
 
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
+Os jogadores de jogos online muitas vezes enfrentam dificuldades em encontrar uma comunidade de jogadores com interesses e habilidades semelhantes. Isso resulta em experiências solitárias e partidas desequilibradas. Além disso, a comunicação entre jogadores é essencial, mas muitas vezes é limitada a aplicativos externos. O MatchTime visa resolver essa falta de comunicação e gerar encontros entre os gamers.
+
+
 
 ## Personas
 
