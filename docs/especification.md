@@ -22,7 +22,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Criar, configurar, personalizar sua conta  | Não esquecer de fazê-las               |
+|Usuário do sistema  | Criar, configurar, personalizar sua conta  | Encontrar o chat ideial para o seu perfil               |
 |Administrador       | Alterar permissões                 | Administrador de contas e páginas |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
