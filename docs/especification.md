@@ -45,9 +45,21 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade | Responsável |
 |------|-----------------------------------------|----| ----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA |  |
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA | |
+|RF-001| Os gerentes de eventos devem poder criar eventos personalizados na plataforma. Isso é fundamental para permitir que os eventos sejam organizados. | ALTA | Italo Ritchello |
+|RF-002| Os gerentes de eventos devem ser capazes de definir detalhes do evento, incluindo nome, data, hora, descrição e regras específicas. Isso é essencial para comunicar as informações básicas do evento aos participantes.   | ALTA | Italo Ritchello |
+|RF-003| Deve ser possível configurar as opções de adesão ao evento, decidindo se ele será aberto a todos ou apenas para membros selecionados. Isso é crítico para controlar quem pode participar. | ALTA | Italo Ritchello |
+|RF-004| Os gerentes de eventos devem ter a capacidade de adicionar informações extras, como prêmios, categorias ou recompensas, para tornar o evento mais atraente. Isso melhora a atratividade do evento, mas pode ser implementado após os requisitos essenciais. | MEDIA | Italo Ritchello |
+|RF-005| Deve ser fácil compartilhar o evento com a comunidade e promovê-lo para atrair participantes. Isso é importante, mas pode ser tratado após a implementação dos recursos essenciais. | MEDIA | Italo Ritchello |
+|RF-006| Cada usuário deve ter um perfil personalizável para exibir suas estatísticas, conquistas e preferências de jogos. | ALTA | Italo Ritchello |
+|RF-007| Implementar um sistema de classificação para avaliar a habilidade dos jogadores com base em seu desempenho nas partidas. | ALTA | Italo Ritchello |
+|RF-008| Os jogadores devem poder participar de partidas competitivas, casuais e personalizadas, onde são agrupados com base em classificações e histórico de desempenho. | ALTA | Italo Ritchello |
+|RF-009|Incluir fóruns de discussão e recursos de voice chat para facilitar a comunicação entre jogadores. Isso pode ser desenvolvido após a implementação dos recursos essenciais. | MEDIA | Italo Ritchello |
+|RF-010| Implementar um sistema de convites que permite que os jogadores convidem amigos para partidas, grupos ou eventos. | MEDIA | Italo Ritchello |
 
+
+
+
+  
 
 ### Requisitos não Funcionais
 
