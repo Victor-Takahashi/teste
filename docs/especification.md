@@ -32,8 +32,8 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Jogador Ativo    | Preciso de um local onde eu possa me conectar com pessoas do mundo todo e que me permita jogar partidas ranqueadas, casuais ou eventos | Para ter e fazer amigos amigos ativos nos jogos |
 |Jogador casual      | Necessito de uma comnunidade amigavel. Partidas sociais sem preocupação de rank. | Para não prejudicar a jogadores competitivos e partidas de alto nível. |
 |Jogador Competitivo       | Necessito de um cenário sério, focado em evoluir e tornar o jogo competitivo e desafiador. De uma plataforma séria que separe os players novos e experientes.| Para não gerar conflitos com novatos. Focar e jogar apenas com jogadores constantes e competitivamente sérios|
-|Gerente de Eventos     | ......                | .......... |
-|Suporte       | Auxiliar os players               | Para repassar as informações e necessidades dos players |
+|Gerente de Eventos     | Quero criar eventos personalizados, aberto ao publico com finalidade de divulgar meu trabalho e demonstrar minha habilidade de gerenciar | Desejo proporcionar experiências diferentes aos usuários, fugindo da casualidade e monotonia dos padrões |
+|Suporte       | Auxiliar os players na plataforma | Para repassar as informações e necessidades dos players, retirar suas duvidas e orientar sobre a plataforma |
 |Administração     | .......                 | ........... |
 |Moderação    | ..........                | .......... |
 
