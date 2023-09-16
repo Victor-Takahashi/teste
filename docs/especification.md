@@ -1,6 +1,6 @@
 # Especificações do Projeto
 
- O MatchTime visa reunir jogadores em comunidades balanceadas com base em seus níveis de classificação no jogo, fornecendo recursos de chat e voice chat, bem como a capacidade de participar de eventos e partidas públicas e privadas.
+ O MatchTime visa reunir jogadores em comunidades balanceadas com base em seus níveis de classificação no jogo, fornecer recursos de chat e voice chat, bem como a capacidade de participar de eventos e partidas públicas e privadas.
  
 As tecnologias que serão utilizadas no fron-end são: HTML, CSS, Boostrap, Jquery. Já na parte do back-end será utilizado: JavaScript ou Json Cruds.
 
@@ -21,7 +21,7 @@ Sofia tem 28 anos, é a especialista em suporte do Matchtime. Ela é apaixonada 
 
 Marina tem 27 anos e é uma moderadora voluntária em várias comunidade online em sua maioria, dedicada a jogos. Ela é apaixonada por criar um ambiente amigável e inclusivo para os membros da comunidade e ajudar a manter a ordem nas discussões.
 
-Luiz tem 22 anos, é um desenvolvedor e apaixonado pelo que faz na área de projetos. Ele é responsável por criar e aprimorar os recursos da plataforma, garantindo que ela seja estável e inovadora. Ele está comprometido em melhorar a experiência dos jogadores e administradores.
+Luiz tem 22 anos, é um desenvolvedor e apaixonado pelo que faz na área de projetos. Ele é responsável por criar e aprimorar os recursos da plataforma, garantir que ela seja estável e inovadora. Ele está comprometido em melhorar a experiência dos jogadores e administradores.
 
 ## Histórias de Usuários
 
@@ -29,8 +29,8 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Jogador Ativo    | ..........                 | ............ |
-|Jogador casual      | Necessito de uma comnunidade amigavel. Partidas sociais sem preocupação de rank. | Para não prejudicar a jogadores competitivos e partidas de alto nível.               |
+|Jogador Ativo    | Preciso de um local onde eu possa me conectar com pessoas do mundo todo e que me permita jogar partidas ranqueadas, casuais ou eventos | Para ter e fazer amigos amigos ativos nos jogos |
+|Jogador casual      | Necessito de uma comnunidade amigavel. Partidas sociais sem preocupação de rank. | Para não prejudicar a jogadores competitivos e partidas de alto nível. |
 |Jogador Competitivo       | Necessito de um cenário sério, focado em evoluir e tornar o jogo competitivo e desafiador. De uma plataforma séria que separe os players novos e experientes.| Para não gerar conflitos com novatos. Focar e jogar apenas com jogadores constantes e competitivamente sérios|
 |Gerente de Eventos     | ......                | .......... |
 |Suporte       | Auxiliar os players               | Para repassar as informações e necessidades dos players |
