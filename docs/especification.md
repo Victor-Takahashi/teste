@@ -29,8 +29,13 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Criar, configurar, personalizar sua conta  | Encontrar o chat ideial para o seu perfil               |
-|Administrador       | Alterar permissões                 | Administrador de contas e páginas |
+|Jogador Ativo    | ..........                 | ............ |
+|Jogador casual      | Necessito de uma comnunidade amigavel. Partidas sociais sem preocupação de rank. | Para não prejudicar a jogadores competitivos e partidas de alto nível.               |
+|Jogador Competitivo       | Necessito de um cenário sério, focado em evoluir e tornar o jogo competitivo e desafiador. De uma plataforma séria que separe os players novos e experientes.| Para não gerar conflitos com novatos. Focar e jogar apenas com jogadores constantes e competitivamente sérios|
+|Gerente de Eventos     | ......                | .......... |
+|Suporte       | Auxiliar os players               | Para repassar as informações e necessidades dos players |
+|Administração     | .......                 | ........... |
+|Moderação    | ..........                | .......... |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
@@ -77,16 +82,12 @@ todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 
 ## Restrições
 
-O projeto está restrito pelos itens apresentados na tabela a seguir.
-
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
-
-
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
+|01| Adoção e Usuários Ativos                              |
+|02| Conexão com Desenvolvedores de Jogos                  |
+|03| Concorrência                                          |
+|04| Remuneração patrocinada por anunciadores              |
+|05| Compatibilidade com Jogos Existentes                  |
+|06| Verificação constante do equilibrio entre players     |
+|07| Feedback e Melhorias                                  |
