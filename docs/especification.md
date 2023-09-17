@@ -13,13 +13,13 @@ Lucas tem 24 anos e é um jogador altamente competitivo. Ele adora jogos de tiro
 
 Ana é uma jogadora casual de 30 anos que gosta de jogos de tiro. Ela joga principalmente para relaxar e se divertir. Ana joga algumas vezes por semana e adora conhecer novas pessoas enquanto joga. Ana procura uma plataforma onde possa se unir a comunidades amigáveis, participar de eventos sociais e explorar novos jogos. Ana busca uma interface amigável, chat de texto e/ou voz para comunicação e a capacidade de encontrar jogadores com interesses semelhantes.
 
-Miguel é um jogador de 28 anos que adora organizar torneios entre amigos. Miguel passa muito tempo jogando com vários e amigos e vê a necessidade de incluir todos em suas partidas. Ele está sempre em busca de novos jogadores para participar de seus jogos personalizados. Miguel procura uma plataforma onde possa promover seus eventos, atrair participantes e manter suas comunidades de jogadores.
+Miguel é um jogador de 28 anos que adora organizar torneios entre amigos. Miguel passa muito tempo jogando com vários amigos e vê a necessidade de incluir todos em suas partidas. Ele está sempre em busca de novos jogadores para participar de seus jogos personalizados. Miguel procura uma plataforma onde possa promover seus eventos, atrair participantes e manter suas comunidades de jogadores.
 
-André tem 34 anos, é um administrador experiente que se dedica ao gerenciamento de comunidades de jogos online. Ele é um apaixonado por jogos e acredita na importância de criar ambientes seguros e acolhedores para os jogadores. Como administrador no Matchtime, ele desempenha um papel vital na manutenção e no crescimento das comunidades dentro da plataforma.
+André tem 34 anos, é um administrador experiente que se dedica ao gerenciamento de comunidades de jogos online. Ele é apaixonado por jogos e acredita na importância de criar ambientes seguros e acolhedores para os jogadores. Como administrador no Matchtime, ele desempenha um papel vital na manutenção e no crescimento das comunidades dentro da plataforma.
 
-Sofia tem 28 anos, é a especialista em suporte do Matchtime. Ela é apaixonada por ajudar os jogadores e administradores a resolverem problemas e fornecer um excelente atendimento ao cliente já que Sofia é extremamente paciente e adora a interação com o usuário.
+Sofia tem 28 anos, é a especialista em suporte do Matchtime. Ela é apaixonada por ajudar os jogadores e administradores a resolverem problemas e fornecer um excelente atendimento ao cliente, já que Sofia é extremamente paciente e adora a interação com o usuário.
 
-Marina tem 27 anos e é uma moderadora voluntária em várias comunidade online em sua maioria, dedicada a jogos. Ela é apaixonada por criar um ambiente amigável e inclusivo para os membros da comunidade e ajudar a manter a ordem nas discussões.
+Marina tem 27 anos e é uma moderadora voluntária em várias comunidades online, principalmente dedicada a jogos. Ela é apaixonada por criar um ambiente amigável e inclusivo para os membros da comunidade e ajudar a manter a ordem nas discussões.
 
 Luiz tem 22 anos, é um desenvolvedor e apaixonado pelo que faz na área de projetos. Ele é responsável por criar e aprimorar os recursos da plataforma, garantir que ela seja estável e inovadora. Ele está comprometido em melhorar a experiência dos jogadores e administradores.
 
