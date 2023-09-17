@@ -9,6 +9,8 @@ Os jogadores de jogos online muitas vezes enfrentam dificuldades em encontrar um
 
 ## Personas
 
+João tem 22 anos é um jogador novato que recentemente começou a explorar o mundo dos jogos online. Ele não tem muita experiência em jogos e está animado para aprender e se juntar a diferentes comunidades de jogadores.
+
 Lucas tem 24 anos e é um jogador altamente competitivo. Ele adora jogos de tiro em primeira pessoa e jogos de estratégia em equipe. Ele passa muitas horas por dia jogando e está sempre em busca de novos desafios. Ele quer competir em partidas de nível profissional e disputar campeonatos. Lucas procura um sistema de classificação confiável e partidas equilibradas para se manter no jogo. E tem como prioridade a fácil comunicação entre jogadores.
 
 Ana é uma jogadora casual de 30 anos que gosta de jogos de tiro. Ela joga principalmente para relaxar e se divertir. Ana joga algumas vezes por semana e adora conhecer novas pessoas enquanto joga. Ana procura uma plataforma onde possa se unir a comunidades amigáveis, participar de eventos sociais e explorar novos jogos. Ana busca uma interface amigável, chat de texto e/ou voz para comunicação e a capacidade de encontrar jogadores com interesses semelhantes.
@@ -84,6 +86,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |04| Remuneração patrocinada por anunciadores              |
 |05| Compatibilidade com Jogos Existentes                  |
 |06| Verificação constante do equilibrio entre players     |
-|07| O projeto deverá ser entregue até o final do semestre     |
-|08| Não terá backend no projeto |
+|07| O projeto deverá ser entregue até o final do semestre |
+|08| Não terá backend no projeto                           |
+|09| Inicialmente somente em português                     |
 
