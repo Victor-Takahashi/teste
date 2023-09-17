@@ -74,7 +74,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-005| Garantir que a plataforma esteja disponível e acessível aos usuários sempre que necessário, minimizando tempos de inatividade. |  BAIXA | 
 |RNF-006| Certificar-se de que a plataforma esteja em conformidade com as políticas de comportamento e regras de uso estabelecidas. |  BAIXA | 
 |RNF-007| Implementar um sistema de backup e recuperação para proteger dados e informações em caso de falhas. |  BAIXA | 
-
+|RNF-008| O sistema deve manter um registro de todas as denúncias de usuários, incluindo data, hora, descrição da denúncia e ação subsequente tomada pela moderação. Esse registro deve ser mantido com alta disponibilidade e segurança para fins de auditoria e transparência na gestão de comportamentos inadequados.| ALTA |
 
 ## Restrições
 
