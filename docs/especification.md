@@ -57,6 +57,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-008| Os jogadores devem poder participar de partidas competitivas, casuais e personalizadas, onde são agrupados com base em classificações e histórico de desempenho. | BAIXO | Pedro Matta |
 |RF-009|Incluir fóruns de discussão e recursos de voice chat para facilitar a comunicação entre jogadores. Isso pode ser desenvolvido após a implementação dos recursos essenciais. | MEDIA | Italo Ritchello |
 |RF-010| Implementar um sistema de convites que permite que os jogadores convidem amigos para partidas, grupos ou eventos. | MEDIA | Pedro Matta |
+|RF-011| A plataforma deve disponibilizar uma área de denúncia para os usuários, acessível por meio de seus perfis ou durante partidas, permitindo que relatem comportamentos inadequados, toxicidade, assédio, discriminação ou qualquer outra violação das diretrizes da comunidade. |MEDIA| João Pedro |
 
 
 
@@ -75,6 +76,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-006| Certificar-se de que a plataforma esteja em conformidade com as políticas de comportamento e regras de uso estabelecidas. |  BAIXA | 
 |RNF-007| Implementar um sistema de backup e recuperação para proteger dados e informações em caso de falhas. |  BAIXA | 
 |RNF-008| O sistema deve manter um registro de todas as denúncias de usuários, incluindo data, hora, descrição da denúncia e ação subsequente tomada pela moderação. Esse registro deve ser mantido com alta disponibilidade e segurança para fins de auditoria e transparência na gestão de comportamentos inadequados.| ALTA |
+|RNF-009| A área de denúncia deve garantir a privacidade e confidencialidade dos denunciantes, protegendo suas informações pessoais.| MEDIA |
+|RNF-010| A plataforma deve fornecer feedback aos denunciantes sobre o status de suas denúncias, como "em análise" ou "resolvida", para mantê-los informados sobre o progresso das investigações.|BAIXA|
+|RNF-011| As denúncias enviadas pelos usuários devem ser encaminhadas para a equipe de moderação para avaliação e ação apropriada. |MEDIA|
 
 ## Restrições
 
