@@ -30,12 +30,12 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
 |Jogador Ativo    | Preciso de um local onde eu possa me conectar com pessoas do mundo todo e que me permita jogar partidas ranqueadas, casuais ou eventos | Para ter e fazer amigos amigos ativos nos jogos |
-|Jogador casual      | Necessito de uma comnunidade amigavel. Partidas sociais sem preocupação de rank. | Para não prejudicar a jogadores competitivos e partidas de alto nível. |
-|Jogador Competitivo       | Necessito de um cenário sério, focado em evoluir e tornar o jogo competitivo e desafiador. De uma plataforma séria que separe os players novos e experientes.| Para não gerar conflitos com novatos. Focar e jogar apenas com jogadores constantes e competitivamente sérios|
-|Gerente de Eventos     | Quero criar eventos personalizados, aberto ao publico com finalidade de divulgar meu trabalho e demonstrar minha habilidade de gerenciar | Desejo proporcionar experiências diferentes aos usuários, fugindo da casualidade e monotonia dos padrões |
-|Suporte       | Auxiliar os players na plataforma | Para repassar as informações e necessidades dos players, retirar suas duvidas e orientar sobre a plataforma |
-|Administração     | .......                 | ........... |
-|Moderação    | ..........                | .......... |
+|Jogador casual      | Necessito de uma comnunidade amigavel. Ferramentas de denúncia simplificadas. Partidas sociais sem preocupação de rank. | Para não prejudicar a jogadores competitivos e partidas de alto nível. |
+|Jogador Competitivo       | Necessito de um cenário sério, focado em evoluir e tornar o jogo competitivo e desafiador. De uma plataforma séria que separe os players novos e experientes. Ferramentas de denúncia simplificadas. | Para não gerar conflitos com novatos. Focar e jogar apenas com jogadores constantes e competitivamente sérios|
+|Gerente de Eventos     | Ferramentas de denúncia simplificadas. Quero criar eventos personalizados, aberto ao publico com finalidade de divulgar meu trabalho e demonstrar minha habilidade de gerenciar | Desejo proporcionar experiências diferentes aos usuários, fugindo da casualidade e monotonia dos padrões |
+|Suporte       | Auxiliar os players na plataforma. Um sistema de feedback dos usuários. Recursos de educação e conscientização sobre comportamento online saudável.| Para repassar as informações e necessidades dos players, retirar suas duvidas e orientar sobre a plataforma |
+|Administração     | Estatísticas e análises detalhadas sobre a atividade da plataforma. Um sistema de relatórios de problemas e denúncias. | ........... |
+|Moderação    | Ferramentas e painel de moderação eficazes. Acesso a um histórico de ações dos usuários. Poder revisar e moderar postagens, comentários e mensagens privadas. | Poder remover conteúdo inadequado, banir usuários que violem as regras da comunidade e manter um ambiente amigável e respeitoso. |
 
 ## Requisitos
 
@@ -66,27 +66,13 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
 |RNF-001| A plataforma deve ser altamente responsiva e rápida para fornecer uma experiência de usuário sem atrasos perceptíveis. | ALTA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-002| Os eventos devem ser seguros e protegidos contra fraudes ou abusos. Deve haver medidas de segurança para garantir que apenas os membros autorizados possam criar eventos. |  ALTA | 
+|RNF-003| Planejar para que a plataforma seja escalável, capaz de lidar com um aumento significativo no número de usuários à medida que a comunidade cresce. |  MEDIA | 
+|RNF-004| A interface de usuário deve ser intuitiva e amigável, permitindo que até mesmo jogadores menos experientes a utilizem com facilidade. |  MEDIA | 
+|RNF-005| Garantir que a plataforma esteja disponível e acessível aos usuários sempre que necessário, minimizando tempos de inatividade. |  BAIXA | 
+|RNF-006| Certificar-se de que a plataforma esteja em conformidade com as políticas de comportamento e regras de uso estabelecidas. |  BAIXA | 
+|RNF-007| Implementar um sistema de backup e recuperação para proteger dados e informações em caso de falhas. |  BAIXA | 
 
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 
 ## Restrições
 
