@@ -84,4 +84,4 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |04| Remuneração patrocinada por anunciadores              |
 |05| Compatibilidade com Jogos Existentes                  |
 |06| Verificação constante do equilibrio entre players     |
-|07| Feedback e Melhorias                                  |
+
