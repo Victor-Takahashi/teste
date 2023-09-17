@@ -89,4 +89,5 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |07| O projeto deverá ser entregue até o final do semestre |
 |08| Não terá backend no projeto                           |
 |09| Inicialmente somente em português                     |
+|10|Classificação Etária                                   |
 
