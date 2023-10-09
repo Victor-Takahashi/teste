@@ -2,21 +2,29 @@
 
 Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
 
-Explique as guias de estilo utilizadas no seu projeto.
-
 ## Design
 
 Detalhe os layouts que serão utilizados. Apresente onde será colocado o logo do sistema. Defina os menus padrões, entre outras coisas.
 
+**Menu de navegação principal:** Menu modelo hamburgues localizado na parte superior esquerda do site. Contendo links para login, cadastro, redes sociais e outros.
+**Layout:**
+*-Posição dos elementos na tela:*
+
+-Barra de navegação: área de busca, logo, menu dropdown, área de perfil. (No topo da página)
+
+-Conteúdo: Apresentação das salas de jogos, destaques, salas disponiveis. (Ao centro da página)
+
+-Rodapé: Com informações importantes, contato e detalhes sobre. (Ao final da página)
 
 ## Cores
 
-Apresente a paleta de cores que será utilizada. Uma ferramenta interessante para a criação de palestas de cores é o *Adobe Color* ([https://color.adobe.com/pt/create/color-wheel](https://color.adobe.com/pt/create/color-wheel)).
+| #090809 | #F40000 | #FF4635 | #F56850 | #9F5348 |
 
+![paleta de cor](https://github.com/ICEI-PUC-Minas-PCO-SI/pco-si-2023-2-p1-tiaw-t1-g3-matchtime/assets/142946762/4015cbf1-b7cd-4cba-a0b5-e0d69a48cb98)
 
 ## Tipografia
 
-Apresente as fontes que serão utilizadas e sua função no site. As principais funções são: Título de página, Título de Seção, Rótulos de componentes e Corpo de Texto.
+Fontes padrão: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
 
 
 ## Iconografia
