@@ -1,10 +1,10 @@
 # Especificações do Projeto
 
  O MatchTime visa reunir jogadores em comunidades balanceadas com base em seus níveis de classificação no jogo, fornecer recursos de chat e voice chat, bem como a capacidade de participar de eventos e partidas públicas e privadas.
- 
-As tecnologias que serão utilizadas no fron-end são: HTML, CSS, Boostrap, Jquery. Já na parte do back-end será utilizado: JavaScript ou Json Cruds.
 
 Os jogadores de jogos online muitas vezes enfrentam dificuldades em encontrar uma comunidade de jogadores com interesses e habilidades semelhantes. Isso resulta em experiências solitárias e partidas desequilibradas. Além disso, a comunicação entre jogadores é essencial, mas muitas vezes é limitada a aplicativos externos. O MatchTime visa resolver essa falta de comunicação e gerar encontros entre os gamers.
+
+As tecnologias que serão utilizadas no fron-end são: HTML, CSS, Boostrap, Jquery. Já na parte do back-end será utilizado: JavaScript ou Json Server.
 
 
 ## Personas
