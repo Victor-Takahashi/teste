@@ -6,7 +6,7 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 ## User Flow
 
 ![UserFlow](https://github.com/ICEI-PUC-Minas-PCO-SI/pco-si-2023-2-p1-tiaw-t1-g3-matchtime/assets/142946762/bb344607-359b-41eb-8a58-937f811aa726)
-https://github.com/ICEI-PUC-Minas-PCO-SI/pco-si-2023-2-p1-tiaw-t1-g3-matchtime/blob/main/docs/interface.md
+
 
 ## Wireframes
 
