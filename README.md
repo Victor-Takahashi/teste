@@ -17,6 +17,7 @@ Este projeto visa a criação de um sistema para unir as comunidades de vários 
 * Victor Kenzo Sousa Takahashi
 * João Pedro de Freitas Marçal
 * Italo Ritchello Batista Carneiro
+* Gabriel Lucas Diniz Alves
 
 ## Orientador
 
