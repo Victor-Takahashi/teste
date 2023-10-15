@@ -41,6 +41,7 @@ Efeito rgb utilizado para um destaque ao poscionar o cursor sobre eles.
 Backgound preto padrão
 
 
-##CSS
+**CSS**:
 Foi utilizado Bootstrap para estilizar a maior parte do site. Com duas navbar para as informações principais do site e uma main com o conteudo a ser colocado conforme o desenvolvimento das outras páginas. Logo após, um rodapé utilizando bootstrap da cor preta foi adicionado a página.
+
 Outras seções podem ser adicionadas neste documento para apresentar padrões de componentes, de menus, etc.
