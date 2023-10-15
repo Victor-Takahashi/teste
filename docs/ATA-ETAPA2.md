@@ -1,9 +1,9 @@
-Pedro Fernando Durães Emerick Porto:
+**Pedro Fernando Durães Emerick Porto:** Responsável por editar e corrigir a etapa 1.
 
-João Pedro de Freitas Marçal:
+**João Pedro de Freitas Marçal:**
 
-Victor Kenzo Sousa Takahashi:
+**Victor Kenzo Sousa Takahashi:**
 
-Pedro Henrique Silva Matta:
+**Pedro Henrique Silva Matta:**
 
-Italo Ritchello Batista Carneiro:
+**Italo Ritchello Batista Carneiro:**
