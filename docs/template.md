@@ -17,7 +17,7 @@ Menu de navegação principal: Menu modelo hamburgues localizado na parte superi
 -Rodapé: Com informações importantes, contato e detalhes sobre. (Ao final da página)
 ## Cores
 ![image](https://github.com/ICEI-PUC-Minas-PCO-SI/pco-si-2023-2-p1-tiaw-t1-g3-matchtime/assets/142946762/13f2ce46-f955-442f-a530-4f654e98d16d)
-As cores escolhidas são inspiradas em setups gamer. Atualmente cores em RGBs (cores fortes e brilhantes) como parte principal da decoração trazendo um tom futurista e moderno para o local da jogatina o que segue perfeitamente a tematica do site.
+As cores escolhidas são inspiradas em setups gamer. Atualmente cores em RGBs (cores fortes e brilhantes) como parte principal da decoração trazendo um tom futurista e moderno para o local da jogatina, o que segue perfeitamente a tematica do site.
 ## Tipografia
 
 As fontes utilizadas para botões e geolocalizações no site são:
