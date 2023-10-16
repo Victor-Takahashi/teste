@@ -1,56 +1,91 @@
-
 # Projeto de Interface
 
 Visão geral da interação do usuário pelas telas do sistema e protótipo interativo das telas com as funcionalidades que fazem parte do sistema.
 
 ## User Flow
 
-![UserFlow](https://github.com/ICEI-PUC-Minas-PCO-SI/pco-si-2023-2-p1-tiaw-t1-g3-matchtime/assets/142946762/bb344607-359b-41eb-8a58-937f811aa726)
+### User Flow primário (exemplo de um usuário experiente)
+
+![userflow primario](https://github.com/ICEI-PUC-Minas-PCO-SI/pco-si-2023-2-p1-tiaw-t1-g3-matchtime/assets/78605231/3569fabd-e9c1-43e1-b2de-5cdb3877d7bc)
+
+### User Flow secundário (exemplo de um usuário novato)
+
+![userflow secundario](https://github.com/ICEI-PUC-Minas-PCO-SI/pco-si-2023-2-p1-tiaw-t1-g3-matchtime/assets/78605231/cb6d090c-846b-4d77-b91c-069f056e0cb0)
 
 
 ## Wireframes
 
-Tela Inicial:
+### Tela inicial
 
-![Tela Inicial](https://github.com/ICEI-PUC-Minas-PCO-SI/pco-si-2023-2-p1-tiaw-t1-g3-matchtime/assets/142946762/a5517fea-2810-4cb6-a075-032e1d92a775)
+![Tela main](https://github.com/ICEI-PUC-Minas-PCO-SI/pco-si-2023-2-p1-tiaw-t1-g3-matchtime/assets/78605231/57723e0d-8036-400a-87c7-f65ccc456eb6)
 
-Exemplo de pesquisa:
+### Tela login
 
-![Exemplo de pesquisa ](https://github.com/ICEI-PUC-Minas-PCO-SI/pco-si-2023-2-p1-tiaw-t1-g3-matchtime/assets/142946762/27305b97-4756-43da-9507-4f6f92fae344)
-
-Exemplo de sala:
-
-![Exemplo de sala](https://github.com/ICEI-PUC-Minas-PCO-SI/pco-si-2023-2-p1-tiaw-t1-g3-matchtime/assets/142946762/a55350c2-59d7-43a5-95a2-1f31aa7e2fbd)
+![Tela login](https://github.com/ICEI-PUC-Minas-PCO-SI/pco-si-2023-2-p1-tiaw-t1-g3-matchtime/assets/78605231/a3cafd78-9661-4dbe-9f69-6a4e9389c343)
 
 
-Tela de login:
+### Tela cadastro
 
-![tela de login](https://github.com/ICEI-PUC-Minas-PCO-SI/pco-si-2023-2-p1-tiaw-t1-g3-matchtime/assets/142946762/5742e061-73a3-4e58-8c71-a15136481491)
+![Tela cadastro](https://github.com/ICEI-PUC-Minas-PCO-SI/pco-si-2023-2-p1-tiaw-t1-g3-matchtime/assets/78605231/ca989b55-f100-4ee1-bb11-3f26e4a1db2c)
 
-Tela de cadastro:
 
-![Tela de cadastro](https://github.com/ICEI-PUC-Minas-PCO-SI/pco-si-2023-2-p1-tiaw-t1-g3-matchtime/assets/142946762/a71dbc4a-25ff-4e66-9025-4122a3300097)
+### Tela perfil exemplo
 
-Tela de comunidades:
+![Tela perfil exemplo](https://github.com/ICEI-PUC-Minas-PCO-SI/pco-si-2023-2-p1-tiaw-t1-g3-matchtime/assets/78605231/697bfb2e-8427-4868-90b0-d13af7e4dada)
 
-![Tela de comunidades](https://github.com/ICEI-PUC-Minas-PCO-SI/pco-si-2023-2-p1-tiaw-t1-g3-matchtime/assets/142946762/0bb2205a-76e5-459f-8235-635eb8af372e)
 
-Área de Denuncia:
+### Tela editar perfil
 
-![Denuncias](https://github.com/ICEI-PUC-Minas-PCO-SI/pco-si-2023-2-p1-tiaw-t1-g3-matchtime/assets/142946762/83971a43-b5c2-410c-8bc3-132381f562ed)
+![Tela perfil editar](https://github.com/ICEI-PUC-Minas-PCO-SI/pco-si-2023-2-p1-tiaw-t1-g3-matchtime/assets/78605231/2747647b-0ea5-4535-98ae-76f4999dd196)
 
-Catalogo de jogos:
 
-![Catalogo de jogos](https://github.com/ICEI-PUC-Minas-PCO-SI/pco-si-2023-2-p1-tiaw-t1-g3-matchtime/assets/142946762/1be26806-d6db-4e81-a577-6edb91868427)
+### Tela catálogo de jogos
 
-Exemplo de perfil:
+![Tela catalogo](https://github.com/ICEI-PUC-Minas-PCO-SI/pco-si-2023-2-p1-tiaw-t1-g3-matchtime/assets/78605231/a90c4784-9100-4593-9679-020653f894f7)
 
-![Exemplo de perfil](https://github.com/ICEI-PUC-Minas-PCO-SI/pco-si-2023-2-p1-tiaw-t1-g3-matchtime/assets/142946762/9a2556c9-37f3-44c8-ae91-2ab4c2603ac1)
 
-Exemplo de jogo:
+### Tela pesquisa de jogos
 
-![Exemplo de jogo](https://github.com/ICEI-PUC-Minas-PCO-SI/pco-si-2023-2-p1-tiaw-t1-g3-matchtime/assets/142946762/2e812a63-58e0-4a6c-a009-e4ba527bbfd1)
+![Tela pesquisa exemplo](https://github.com/ICEI-PUC-Minas-PCO-SI/pco-si-2023-2-p1-tiaw-t1-g3-matchtime/assets/78605231/8e8db5dd-39de-4c85-a044-d1c435ac0268)
 
-Edição de pefil:
 
-![Edicao de perfil](https://github.com/ICEI-PUC-Minas-PCO-SI/pco-si-2023-2-p1-tiaw-t1-g3-matchtime/assets/142946762/31466843-da45-4843-af38-87efead9123e)
+### Tela jogo exemplo
+
+![Tela jogo exemplo](https://github.com/ICEI-PUC-Minas-PCO-SI/pco-si-2023-2-p1-tiaw-t1-g3-matchtime/assets/78605231/8881637a-9f33-4812-9a8d-e328049e613d)
+
+
+### Tela treinamento (sobre o jogo)
+
+![Tela treinamento](https://github.com/ICEI-PUC-Minas-PCO-SI/pco-si-2023-2-p1-tiaw-t1-g3-matchtime/assets/78605231/b9016eba-ebab-472c-93b7-2dbb3ff2e663)
+
+
+### Tela jogar agora (quickplay)
+
+![Tela jogar agora](https://github.com/ICEI-PUC-Minas-PCO-SI/pco-si-2023-2-p1-tiaw-t1-g3-matchtime/assets/78605231/4a23cc97-5029-427e-ac3a-465399a93912)
+
+
+### Tela sala exemplo
+
+![Tela sala exemplo](https://github.com/ICEI-PUC-Minas-PCO-SI/pco-si-2023-2-p1-tiaw-t1-g3-matchtime/assets/78605231/3f4164bc-3f21-48a2-87f5-405b094a2e6f)
+
+
+### Tela eventos
+
+![Tela eventos](https://github.com/ICEI-PUC-Minas-PCO-SI/pco-si-2023-2-p1-tiaw-t1-g3-matchtime/assets/78605231/62ae22a4-e156-4c57-b6d8-4825059db4a3)
+
+
+### Tela tutorial do site
+
+![Tela tutorial](https://github.com/ICEI-PUC-Minas-PCO-SI/pco-si-2023-2-p1-tiaw-t1-g3-matchtime/assets/78605231/5698c68b-da81-46ba-913d-c4a926b1d05b)
+
+
+### Tela denuncias
+
+![Tela denuncias](https://github.com/ICEI-PUC-Minas-PCO-SI/pco-si-2023-2-p1-tiaw-t1-g3-matchtime/assets/78605231/b45dfa67-6767-45d8-aa39-d7b3b14ca823)
+
+
+
+
+
+
+
