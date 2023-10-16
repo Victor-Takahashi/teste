@@ -2,7 +2,7 @@
 
 **João Pedro de Freitas Marçal:**
 
-**Victor Kenzo Sousa Takahashi:**
+**Victor Kenzo Sousa Takahashi:** Desing do User flow e grande parte dos Wireframes.
 
 **Pedro Henrique Silva Matta:** Ediçao de alguns wireframes, conferencia da etapa 1.
 
