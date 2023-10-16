@@ -8,4 +8,4 @@
 
 **Italo Ritchello Batista Carneiro:** Criação do template padrão, criação e edição de alguns wireframes.
 
-**Gabriel Lucas Diniz Alves:** 
+**Gabriel Lucas Diniz Alves:** Estilização e finalização do template padrão, criação da logo.
