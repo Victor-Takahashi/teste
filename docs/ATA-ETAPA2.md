@@ -4,7 +4,7 @@
 
 **Victor Kenzo Sousa Takahashi:**
 
-**Pedro Henrique Silva Matta:**
+**Pedro Henrique Silva Matta:** Ediçao de alguns wireframes, conferencia da etapa 1.
 
 **Italo Ritchello Batista Carneiro:** Criação do template padrão, criação e edição de alguns wireframes.
 
