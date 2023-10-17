@@ -1,6 +1,6 @@
 **Pedro Fernando Durães Emerick Porto:** Responsável por editar e corrigir a etapa 1.
 
-**João Pedro de Freitas Marçal:**
+**João Pedro de Freitas Marçal:** Ausente
 
 **Victor Kenzo Sousa Takahashi:** Design do User flow e grande parte dos Wireframes.
 
