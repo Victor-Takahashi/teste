@@ -173,6 +173,11 @@ nav {
   animation: rainbow-animation 400s linear infinite;
 }
 
+@keyframes rainbow-animation {
+  to {
+    background-position: 4500vh;
+  }
+}
 
 .botao-grande {
   width: 200px;
