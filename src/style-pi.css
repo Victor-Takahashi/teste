@@ -173,6 +173,16 @@ nav {
   }
 }
 
+.rgb:hover {
+  background-image:
+    linear-gradient(to right, #ff0000, #8d5222, #fffb00, #1d5706, #00ffd5,
+      #002bff, #7a00ff, #ff00c8, #ff0000);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: rainbow-animation 400s linear infinite;
+}
+
+
 .botao-grande {
   width: 200px;
   height: 200px;
