@@ -124,7 +124,7 @@ nav {
 .rgb:hover {
     background-image:
         linear-gradient(to right, #ff0000, #8d5222, #fffb00, #1d5706, #00ffd5,
-        #002bff, #7a00ff, #ff00c8, #ff0000);
+            #002bff, #7a00ff, #ff00c8, #ff0000);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     animation: rainbow-animation 400s linear infinite;
@@ -134,4 +134,54 @@ nav {
     to {
         background-position: 4500vh;
     }
+}
+
+/* estilização do lobby room */
+
+.fundo {
+    border-radius: 30px;
+    margin-bottom: 60px;
+    display: flex;
+    padding: 20px;
+    background-color: white;
+    justify-content: center;
+    text-align: center;
+    height: 100%;
+    margin: 1%;
+    margin-bottom: 1%;
+}
+
+.fundo img {
+    width: 100%;
+    height: 300px;
+}
+
+.fundo .fundo2 {
+    border-radius: 30px;
+    margin-bottom: 60px;
+    display: flex;
+    height: 100%;
+    padding: 20px;
+    background-color: gray;
+    text-align: center;
+}
+
+.fundo .fundo3 {
+    border-radius: 30px;
+    margin-bottom: 60px;
+    height: 100%;
+    display: flex;
+    padding: 20px;
+    background-color: gray;
+    text-align: center;
+}
+
+.fundo .chat{
+    border-radius: 30px;
+    margin-bottom: 60px;
+    height: 100%;
+    display: flex;
+    padding: 20px;
+    background-color: gray;
+    text-align: center;
 }
