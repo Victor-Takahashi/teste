@@ -166,7 +166,7 @@ nav {
     position: absolute;
     width: 100px;
     height: 200%;
-    background: linear-gradient(180deg, #381402, #190132);
+    background: linear-gradient(-180deg, #ff0000, rgb(153, 0, 255), rgb(255, 0, 255), rgb(0, 174, 255), #1900ff);
     animation: animate1 3s linear infinite;
 }
 
