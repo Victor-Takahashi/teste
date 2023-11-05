@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="style-rc.css">
+    <title>MatchTime</title>
+</head>
+
+
+<body>
+    <!-- Inicio navbar -->
+    <header>
+        <nav class="navbar navbar-expand-lg border-bottom border-body" data-bs-theme="dark">
+            <div class="container-fluid">
+                <a class="navbar-brand" href="#"><img src="img/mt.png"
+                        style="height: 60px; width: 60px; margin-left: 37px;"> MatchTime</a>
+                <div id="navbarSupportedContent">
+                    <ul class="navbar-nav ms-auto mrg">
+                        <li class="nav-item dropdown ">
+                            <a class="nav-link dropdown-toggle mouse-efeito-navbar" href="#" role="button"
+                                data-bs-toggle="dropdown" aria-expanded="false"><img src="img/perfil.png"
+                                    width="50px"></a>
+                            <ul class="dropdown-menu">
+                                <li><a class="dropdown-item dpdefect" href="#">Meus jogos</a></li>
+                                <li><a class="dropdown-item dpdefect" href="#">Editar</a></li>
+                                <li>
+                                    <hr class="dropdown-divider">
+                                </li>
+                                <li><a class="dropdown-item dpdefect" href="#">Sair</a></li>
+                            </ul>
+                        </li>
+
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+        <nav class="navbar navbar-expand-lg border-bottom border-body" data-bs-theme="dark">
+            <div class="container-fluid">
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                    aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                        <li class="nav-item">
+                            <a class="nav-link button-gamer" aria-current="page" type="submit">Jogar Agora</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link button-gamer" aria-current="page" type="submit">Tutorial</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link button-gamer" aria-current="page" type="submit">Denuncias</a>
+                        </li>
+
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle rgb border-0" href="#" role="button"
+                                data-bs-toggle="dropdown" aria-expanded="false" style="color: white;">
+                                Comunidades
+                            </a>
+                            <ul class="dropdown-menu">
+                                <li><a class="dropdown-item dpdefect" href="#">Minhas Comunidades</a></li>
+                                <li>
+                                    <hr class="dropdown-divider">
+                                </li>
+                                <li><a class="dropdown-item dpdefect" href="#">Criar Comunidade</a></li>
+                                <li><a class="dropdown-item dpdefect" href="#">Encontre Comunidades</a></li>
+                            </ul>
+                        </li>
+                </div>
+                <form class="d-flex" role="search">
+                    <input class="form-control me-2" type="search" placeholder="Pesquise seu Game" aria-label="Search">
+                    <button class="button-gamer" style="margin-right: 60px; padding: 10px;"
+                        type="submit">Pesquisar</button>
+                </form>
+            </div>
+        </nav>
+    </header>
+    <!-- final navbar -->
+
+    <!--inicio da main body-->
+    <main>
+        <div class="Denuncias">
+            <div>
+                <h1
+                    style="margin-top: 50px; text-align: center; color:white; text-shadow: 0 0 0.2em #87F, 0 0 0.2em #87F, 0 0 0.2em #87F">
+                    Canal de denúncias</h1>
+            </div>
+
+            <div>
+                <form>
+                    <fieldset>
+
+                        <div>
+                            <h3 style="margin-top: 30px;">Escolha um usuário para denunciar:</h3>
+                            <div class="user-list">
+                                <div>
+                                    <ul>
+                                        <li>
+                                            <div class="user-sample" tabindex="1">
+                                                <img src="img/perfil-icon.svg" class="userimg">
+                                                <span> user-sample1 </span>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="user-sample" tabindex="2">
+                                                <img src="img/perfil-icon.svg" class="userimg">
+                                                <span> user-sample2 </span>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="user-sample" tabindex="3">
+                                                <img src="img/perfil-icon.svg" class="userimg">
+                                                <span> user-sample3 </span>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+
+                            <form class="d-flex" role="search">
+                                <input class="form-control me-2" type="text" placeholder="Pesquise um usuário"
+                                    aria-label="Search">
+                            </form>
+                        </div>
+
+                        <div>
+                            <h4 style="margin-top: 30px;">Selecione uma ou mais das seguintes opções:</h4>
+                            <div class="Checkbox">
+                                <input type="checkbox" name="motive1" id="motive1" value="Preconceito">
+                                <label for="motive1">Preconceito</label><br>
+
+                                <input type="checkbox" name="motive2" id="motive2" value="Toxicidade">
+                                <label for="motive2">Toxicidade</label><br>
+
+                                <input type="checkbox" name="motive3" id="motive3" value="Linguagem ofensiva">
+                                <label for="motive3">Linguagem ofensiva</label><br>
+
+                                <input type="checkbox" name="motive4" id="motive4" value="Abuso sexual">
+                                <label for="motive4">Abuso sexual</label><br>
+
+                                <input type="checkbox" name="motive5" id="motive5" value="Nome e/ou perfil sugestivo">
+                                <label for="motive5">Nome e/ou perfil sugestivo</label><br>
+
+                                <input type="checkbox" name="motive6" id="motive6" value="Outros">
+                                <label for="motive6">Outros</label><br>
+                            </div>
+                        </div>
+
+                        <div>
+                            <h4 style="margin-top: 30px;">Seu email: </h4>
+                            <input type="text"
+                                style="border-radius: 5px; width: 80%px; max-width: 450px; min-width: fit-content;"
+                                placeholder="Insira seu email" required>
+                        </div>
+
+                        <div>
+                            <h4 style="margin-top: 30px;">Descreva melhor a situação presenciada:</h4>
+                            <input class="input" type="text"
+                                style="border-radius: 5px; width: 80%; max-width: 450px; min-width: fit-content; height: 100px;"
+                                placeholder="Descreva o ocorrido" required>
+                        </div>
+
+                        <div>
+                            <button class="button-gamer" style="padding: 10px; margin: 30px; background-color: azure;"
+                                type="submit">ENVIAR</button>
+                        </div>
+
+
+                    </fieldset>
+                </form>
+            </div>
+        </div>
+    </main>
+
+    <!-- inicio rodapé -->
+    <footer>
+        <div class="container-fluid p-4">
+            <div class="row" style="text-align: center;">
+                <div class="col-lg-3 col-md-6 col-sm-12 mb-3" style="color: white">
+                    <h5 class="mb-3" style="letter-spacing: 2px;"></h5>
+                    <p>
+                        <img style="max-width: 200px;" src="img/classificacao.png" alt="">
+                    </p>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-12 mb-3" style="color: white">
+                    <h5 class="mb-3" style="letter-spacing: 2px;">Comunidade</h5>
+                    <ul class="list-unstyled mb-0">
+                        <li class="mb-1">
+                            <a href="#!" style="text-decoration: none; color: aqua;">Formador de equipe</a>
+                        </li>
+                        <li class="mb-1">
+                            <a href="#!" style="text-decoration: none; color: aqua;">Grupo discord</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-12 mb-3" style="color: white">
+                    <h5 class="mb-3" style="letter-spacing: 2px;">Suporte</h5>
+                    <ul class="list-unstyled mb-0">
+                        <li class="mb-1">
+                            <a href="#!" style="text-decoration: none; color: aqua;">Perguntas Frequentes</a>
+                        </li>
+                        <li class="mb-1">
+                            <a href="#!" style="text-decoration: none; color: aqua;">Denuncias</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-lg-3 col-md-4 mb-3" style="text-align: center;">
+                    <h5 class="mb-3" style="letter-spacing: 2px; color: white">MatchTime</h5>
+                    <ul class="list-unstyled mb-0">
+                        <li class="mb-1">
+                            <a href="#!" style="text-decoration: none; color: aqua;">Perguntas Frequentes</a>
+                        </li>
+                        <li class="mb-1">
+                            <a href="#!" style="text-decoration: none; color:aqua">Trabalhe conosco</a>
+                        </li>
+                        <li class="mb-1">
+                            <a href="#!" style="text-decoration: none; color:aqua">Para empresas</a>
+                        </li>
+                        <li>
+                            <a href="#!" style="text-decoration: none; color:aqua">Sobre Nós</a>
+                        </li>
+                        <li>
+                            <a href="#!" style="text-decoration: none; color:aqua">Contato</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div style="background-color: rgba(46, 4, 4, 0.096); text-align: center;">
+            <a class="text-white" href="#">© 2023 Copyright</a>
+        </div>
+    </footer>
+    <!-- final do rodapé -->
+
+
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+        crossorigin="anonymous"></script>
+
+</body>
+
+</html>
