@@ -135,3 +135,7 @@ nav {
         background-position: 4500vh;
     }
 }
+
+.lista a{
+    text-decoration: none;
+}
