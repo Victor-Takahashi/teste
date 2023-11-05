@@ -1,0 +1,181 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;600;700;800;900&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+html, body {
+    height: 100%;
+}
+
+body {
+    background-color: #111;
+    display: flex;
+    flex-direction: column;
+}
+
+main {
+    color: #fff;
+    flex: 1;
+}
+
+.user-list{
+  align-self: center;
+  height: 500px;
+  width: 750px;
+  margin: auto;
+  margin-bottom: 10px;
+  padding: 20px;
+  border: 10px;
+  border-radius: 10px;
+  background-color: #000508;
+}
+
+form {
+  text-align: center;
+  border-radius: 4px;
+  margin: auto;
+  width: 750px;
+  margin-top: 10px;
+  
+}
+
+.user-sample {
+  text-align: left;
+  background-color: #151525;
+  margin: 5px;
+  padding: 5px;
+  border-radius: 10px;
+}
+
+.user-sample:focus {
+  background-color: #303070;
+}
+
+.userimg {
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+}
+
+.Checkbox {
+  margin-top: 30px;
+  margin-left: 38%;
+  text-align: left;
+}
+
+footer {
+    bottom: 0;
+    width: 100%;
+    background-color: #000;
+}
+
+nav {
+    background-color: #000;
+}
+
+/* Botao gamer*/
+
+.dpdefect:hover {
+    background-color: #8d1d1d;
+
+    transition: 0.1s;
+}
+
+.nav-item {
+    font-size: 20px;
+    margin-left: 15px;
+    ;
+}
+
+.mrg {
+    margin-right: 50px;
+}
+
+.mouse-efeito-navbar:hover {
+    color: #fff;
+}
+
+.button-gamer {
+    border: none;
+    outline: none;
+    color: #fff;
+    background-color: #111;
+    cursor: pointer;
+    position: relative;
+    z-index: 0;
+    border-radius: 8px;
+}
+
+.button-gamer:before {
+    content: '';
+    background: linear-gradient(45deg, #ff0000, #8d5222, #fffb00, #1d5706, #00ffd5,
+            #002bff, #7a00ff, #ff00c8, #ff0000);
+    position: absolute;
+    top: -2px;
+    left: -2px;
+    background-size: 400%;
+    z-index: -1;
+    filter: blur(5px);
+    width: calc(100% + 4px);
+    height: calc(100% + 4px);
+    animation: glowing 20s linear infinite;
+    opacity: 0;
+    transition: opacity .3s ease-in-out;
+    border-radius: 10px;
+}
+
+.button-gamer:active {
+    color: #000
+}
+
+.button-gamer:active:after {
+    background: transparent;
+}
+
+.button-gamer:hover:before {
+    opacity: 1;
+}
+
+.button-gamer:after {
+    z-index: -1;
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: #111;
+    left: 0;
+    top: 0;
+    border-radius: 10px;
+}
+
+@keyframes glowing {
+    0% {
+        background-position: 0 0;
+    }
+
+    50% {
+        background-position: 400% 0;
+    }
+
+    100% {
+        background-position: 0 0;
+    }
+}
+
+.rgb:hover {
+    background-image:
+        linear-gradient(to right, #ff0000, #8d5222, #fffb00, #1d5706, #00ffd5,
+        #002bff, #7a00ff, #ff00c8, #ff0000);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: rainbow-animation 400s linear infinite;
+}
+
+@keyframes rainbow-animation {
+    to {
+        background-position: 4500vh;
+    }
+}
