@@ -24,7 +24,8 @@ main {
 .user-list{
   align-self: center;
   height: 500px;
-  width: 750px;
+  max-width: 750px;
+  min-width: 200px;
   margin: auto;
   margin-bottom: 10px;
   padding: 20px;
@@ -37,7 +38,8 @@ form {
   text-align: center;
   border-radius: 4px;
   margin: auto;
-  width: 750px;
+  max-width: 750px;
+  min-width: 200px;
   margin-top: 10px;
   
 }
@@ -62,7 +64,7 @@ form {
 
 .Checkbox {
   margin-top: 30px;
-  margin-left: 38%;
+  margin-left: 35%;
   text-align: left;
 }
 
@@ -87,7 +89,6 @@ nav {
 .nav-item {
     font-size: 20px;
     margin-left: 15px;
-    ;
 }
 
 .mrg {
