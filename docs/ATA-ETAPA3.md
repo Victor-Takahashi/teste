@@ -4,7 +4,7 @@ João Pedro de Freitas Marçal:
 
 Victor Kenzo Sousa Takahashi:
 
-Pedro Henrique Silva Matta:
+Pedro Henrique Silva Matta: Fui responsavel pela criaçao de tela de login e tela de cadastro.
 
 Italo Ritchello Batista Carneiro:
 
