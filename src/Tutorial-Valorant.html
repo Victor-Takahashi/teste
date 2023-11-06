@@ -26,15 +26,14 @@
                                 data-bs-toggle="dropdown" aria-expanded="false"><img src="img/perfil.png"
                                     width="50px"></a>
                             <ul class="dropdown-menu">
-                                <li><a class="dropdown-item dpdefect" href="#">Fazer login</a></li>
-                                <li><a class="dropdown-item dpdefect" href="#">Criar conta</a></li>
+                                <li><a class="dropdown-item dpdefect" href="/src/login.html">Fazer login</a></li>
+                                <li><a class="dropdown-item dpdefect" href="/src/register.html">Criar conta</a></li>
                                 <li>
                                     <hr class="dropdown-divider">
                                 </li>
-                                <li><a class="dropdown-item dpdefect" href="#">Sair</a></li>
+                                <li><a class="dropdown-item dpdefect" href="/src/index.html">Sair</a></li>
                             </ul>
                         </li>
-
                     </ul>
                 </div>
             </div>
@@ -50,30 +49,36 @@
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                         <li class="nav-item">
-                            <a class="nav-link button-gamer" aria-current="page" href="/src/Catalog.html"
-                                type="submit">Jogar Agora</a>
+                            <a class="nav-link button-gamer" href="/src/Catalog.html" aria-current="page"
+                                type="submit">Jogar
+                                Agora</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link button-gamer" aria-current="page" href="" type="submit">Tutorial</a>
+                            <a class="nav-link button-gamer" href="/src/EventScreen.html" aria-current="page"
+                                type="submit">Eventos</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link button-gamer" aria-current="page" href="" type="submit">Denuncias</a>
+                            <a class="nav-link button-gamer" href="/src/ReportChannel.html" aria-current="page"
+                                type="submit">Denuncias</a>
                         </li>
+
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle rgb border-0" href="#" role="button"
                                 data-bs-toggle="dropdown" aria-expanded="false" style="color: white;">
                                 Comunidades
                             </a>
                             <ul class="dropdown-menu">
-                                <li><a class="dropdown-item dpdefect" href="#">Minhas Comunidades</a></li>
+                                <li><a class="dropdown-item dpdefect" href="/src/my-community.html">Minhas
+                                        Comunidades</a></li>
                                 <li>
                                     <hr class="dropdown-divider">
                                 </li>
-                                <li><a class="dropdown-item dpdefect" href="#">Criar Comunidade</a></li>
-                                <li><a class="dropdown-item dpdefect" href="#">Encontre Comunidades</a></li>
+                                <li><a class="dropdown-item dpdefect" href="/src/communityCreate.html">Criar
+                                        Comunidade</a></li>
+                                <li><a class="dropdown-item dpdefect" href="/src/community.html">Encontre
+                                        Comunidades</a></li>
                             </ul>
                         </li>
-                    </ul>
                 </div>
                 <form class="d-flex" role="search">
                     <input class="form-control me-2" type="search" placeholder="Pesquise seu Game" aria-label="Search">
@@ -138,10 +143,10 @@
                     </div>
 
                     <div style="text-align: center;">
-                        <button class="button-gamer" style="padding: 10px; margin: 30px; background-color: azure;"
-                            type="button">
+                        <a class="button-gamer" style="padding: 10px; margin: 30px; background-color: azure;"
+                            type="button" href="/src/GameRoom-valorant.html">
                             Jogar Agora
-                        </button>
+                        </a>
                     </div>
 
                 </div>
@@ -153,37 +158,38 @@
 
     <!-- inicio rodapé -->
     <footer>
-        <div class="container p-4">
+        <div class="container-fluid p-4">
             <div class="row" style="text-align: center;">
-                <div class="col-lg-3 col-md-6 col-sm-12 mb-4" style="color: white">
+                <div class="col-lg-3 col-md-6 col-sm-12 mb-3" style="color: white">
                     <h5 class="mb-3" style="letter-spacing: 2px;"></h5>
                     <p>
                         <img style="max-width: 200px;" src="img/classificacao.png" alt="">
                     </p>
                 </div>
-                <div class="col-lg-3 col-md-6 col-sm-12 mb-4" style="color: white">
+                <div class="col-lg-3 col-md-6 col-sm-12 mb-3" style="color: white">
                     <h5 class="mb-3" style="letter-spacing: 2px;">Comunidade</h5>
                     <ul class="list-unstyled mb-0">
                         <li class="mb-1">
-                            <a href="#!" style="text-decoration: none; color: aqua;">Formador de equipe</a>
+                            <a href="/src/communityCreate.html" style="text-decoration: none; color: aqua;">Formador de
+                                equipe</a>
                         </li>
                         <li class="mb-1">
-                            <a href="#!" style="text-decoration: none; color: aqua;">Grupo discord</a>
+                            <a href="/src/community.html" style="text-decoration: none; color: aqua;">Grupo discord</a>
                         </li>
                     </ul>
                 </div>
-                <div class="col-lg-3 col-md-6 col-sm-12 mb-4" style="color: white">
+                <div class="col-lg-3 col-md-6 col-sm-12 mb-3" style="color: white">
                     <h5 class="mb-3" style="letter-spacing: 2px;">Suporte</h5>
                     <ul class="list-unstyled mb-0">
                         <li class="mb-1">
                             <a href="#!" style="text-decoration: none; color: aqua;">Perguntas Frequentes</a>
                         </li>
                         <li class="mb-1">
-                            <a href="#!" style="text-decoration: none; color: aqua;">Denuncias</a>
+                            <a href="/src/ReportChannel.html" style="text-decoration: none; color: aqua;">Denuncias</a>
                         </li>
                     </ul>
                 </div>
-                <div class="col-lg-3 col-md-4 mb-4" style="text-align: center;">
+                <div class="col-lg-3 col-md-4 mb-3" style="text-align: center;">
                     <h5 class="mb-3" style="letter-spacing: 2px; color: white">MatchTime</h5>
                     <ul class="list-unstyled mb-0">
                         <li class="mb-1">
