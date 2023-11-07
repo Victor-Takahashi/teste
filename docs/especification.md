@@ -47,17 +47,22 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade | Responsável |
 |------|-----------------------------------------|----| ----|
-|RF-001|É fundamental que os gerentes de eventos possam criar eventos personalizados na plataforma. | ALTA | Italo Ritchello |
-|RF-002| É essencial que os gerentes de eventos possam especificar detalhes do evento, como nome, data, hora, descrição e regras específicas, para comunicar informações básicas aos participantes. | ALTA |Pedro Matta |
-|RF-003| A possibilidade de configurar as opções de adesão ao evento, decidindo se será aberto a todos ou apenas para membros selecionados, é crucial para controlar a participação de forma adequada. | ALTA | Pedro Fernando |
-|RF-004| É importante que os gerentes de eventos possam adicionar informações extras, como prêmios, categorias ou recompensas, para aumentar a atratividade do evento, mesmo que isso seja implementado após os requisitos essenciais. | MEDIA | Pedro Matta |
-|RF-005| É fundamental que seja fácil compartilhar o evento com a comunidade e promovê-lo para atrair participantes, mesmo que essa funcionalidade seja tratada após a implementação dos recursos essenciais. | BAIXO | Italo Ritchello |
-|RF-006| Cada usuário deve ter a capacidade de personalizar seu perfil para exibir suas estatísticas, conquistas e preferências de jogos. | ALTA | Victor Takahashi |
-|RF-007| É crucial implementar um sistema de classificação para avaliar a habilidade dos jogadores com base no desempenho nas partidas. | ALTA | Gabriel Lucas |
-|RF-008| Os jogadores devem ter a possibilidade de participar de partidas competitivas, casuais e personalizadas, sendo agrupados conforme suas classificações e histórico de desempenho. | BAIXO | Pedro Fernando |
+|RF-001|É fundamental que os gerentes de eventos possam criar eventos personalizados na plataforma. | ALTA | Victor Takahashi |
+|RF-002| É essencial que os gerentes de eventos possam especificar detalhes do evento, como nome, data, hora, descrição e regras específicas, para comunicar informações básicas aos participantes. | ALTA | Victor Takahashi |
+|RF-003| A possibilidade de configurar as opções de adesão ao evento, decidindo se será aberto a todos ou apenas para membros selecionados, é crucial para controlar a participação de forma adequada. | ALTA | Victor Takahashi |
+|RF-004| É importante que os gerentes de eventos possam adicionar informações extras, como prêmios, categorias ou recompensas, para aumentar a atratividade do evento, mesmo que isso seja implementado após os requisitos essenciais. | MEDIA | Victor Takahashi |
+|RF-005| É fundamental que seja fácil compartilhar o evento com a comunidade e promovê-lo para atrair participantes, mesmo que essa funcionalidade seja tratada após a implementação dos recursos essenciais. | BAIXO | Victor Takahashi |
+|RF-006| Cada usuário deve ter a capacidade de personalizar seu perfil para exibir suas estatísticas, conquistas e preferências de jogos. | ALTA | Pedro Fernando |
+|RF-007| É crucial implementar um sistema de classificação para avaliar a habilidade dos jogadores com base no desempenho nas partidas. | BAIXA | Italo Ritchello |
+|RF-008| Os jogadores devem ter a possibilidade de participar de partidas competitivas, casuais e personalizadas, sendo agrupados conforme suas classificações e histórico de desempenho. | ALTA | Italo Ritchello |
 |RF-009| É fundamental incluir fóruns de discussão e recursos de voice chat para facilitar a comunicação entre jogadores, mesmo que seja desenvolvido após a implementação dos recursos essenciais. | MEDIA | Gabriel Lucas |
-|RF-010| É crucial implementar um sistema de convites que permita aos jogadores convidar amigos para partidas, grupos ou eventos. | MEDIA | Victor Takahashi |
-|RF-011| A plataforma deve oferecer uma área de denúncia para os usuários, acessível por meio de seus perfis ou durante partidas, permitindo que relatem comportamentos inadequados, toxicidade, assédio, discriminação ou qualquer outra violação das diretrizes da comunidade. |MEDIA| João Pedro |
+|RF-010| É crucial implementar um sistema de convites que permita aos jogadores convidar amigos para partidas, grupos ou eventos. | BAIXA | Gabriel Lucas |
+|RF-011| A plataforma deve oferecer uma área de denúncia para os usuários, acessível por meio de seus perfis ou durante partidas, permitindo que relatem comportamentos inadequados, toxicidade, assédio, discriminação ou qualquer outra violação das diretrizes da comunidade. | MEDIA | Victor Takahashi |
+|RF-012| É fundamental a necessidade de um sistema de login para cada usuário. | ALTA | Pedro Henrique |   
+|RF-013| É crucial a necessidade de um sistema de cadastro para cada usuário. | ALTA | Pedro Henrique | 
+|RF-014| É importante existir um sistema de comunidades para os jogadores se conectarem dentro e fora do jogo. | ALTA | Italo Ritchello |
+|RF-015| Deve apresentar um catálogo incluindo todos os jogos da plataforma, para o usúario ter a opção de escolha | ALTA | Gabriel Lucas |
+
 
 
 
@@ -73,8 +78,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-003| Os eventos devem ser seguros e protegidos contra fraudes ou abusos. Deve haver medidas de segurança para garantir que apenas os membros autorizados possam criar eventos. |  ALTA | 
 |RNF-004| Garantir que todos os eventos na plataforma sejam seguros e protegidos contra fraudes e abusos. |  ALTA | 
 |RNF-005| Implementar medidas de segurança para garantir que apenas membros autorizados tenham permissão para criar eventos. |  ALTA | 
-|RNF-006| Garantir que a arquitetura da plataforma seja projetada para escalar de forma eficiente e suportar um aumento significativo no número de usuários. |  MEDIA | 
-|RNF-007| Implementar estratégias para gerenciar e acomodar o crescimento contínuo da comunidade de usuários, mantendo a performance e a qualidade dos serviços. |  MEDIA |
+|RNF-006| Garantir que a arquitetura da plataforma seja projetada para escalar de forma eficiente e suportar um aumento significativo no número de usuários. | MEDIA | 
+|RNF-007| Implementar estratégias para gerenciar e acomodar o crescimento contínuo da comunidade de usuários, mantendo a performance e a qualidade dos serviços. | MEDIA |
 | RNF-008 | Garantir que a interface seja intuitiva para jogadores menos experientes. | MEDIA |
 | RNF-009 | Assegurar que a interface seja amigável e fácil de usar. | MEDIA |
 |RNF-010| Garantir que a plataforma esteja disponível e acessível aos usuários sempre que necessário, minimizando tempos de inatividade. | BAIXA |
@@ -83,8 +88,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-013| O sistema deve manter um registro de todas as denúncias de usuários, incluindo data, hora, descrição da denúncia e ação subsequente tomada pela moderação. Esse registro deve ser mantido com alta disponibilidade e segurança para fins de auditoria e transparência na gestão de comportamentos inadequados.| ALTA |
 | RNF-014 | Garantir a privacidade dos denunciantes na área de denúncia. | MEDIA |
 | RNF-015 | Proteger as informações pessoais dos denunciantes. | MEDIA |
-|RNF-016| A plataforma deve fornecer feedback aos denunciantes sobre o status de suas denúncias, como "em análise" ou "resolvida", para mantê-los informados sobre o progresso das investigações. |BAIXA|
-|RNF-017| As denúncias enviadas pelos usuários devem ser encaminhadas para a equipe de moderação para avaliação e ação apropriada. |MEDIA|
+|RNF-016| A plataforma deve fornecer feedback aos denunciantes sobre o status de suas denúncias, como "em análise" ou "resolvida", para mantê-los informados sobre o progresso das investigações. | BAIXA |
+|RNF-017| As denúncias enviadas pelos usuários devem ser encaminhadas para a equipe de moderação para avaliação e ação apropriada. | MEDIA |
 
 ## Restrições
 
