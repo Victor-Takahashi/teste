@@ -1,12 +1,54 @@
 {
 
 "users": [
-{"id": "0", "nome": "user01", "email": "aaaaa1@a.com", "senha": "senha", "foto": "", "bio": "", "id-jogos": "", "comunidades-criadas": "", "comunidades-entradas": ""},
-{"id": "1", "nome": "user02", "email": "aaaaa2@a.com", "senha": "senha", "foto": "", "bio": "", "id-jogos": "", "comunidades-criadas": "", "comunidades-entradas": ""},
-{"id": "2", "nome": "user03", "email": "aaaaa3@a.com", "senha": "senha", "foto": "", "bio": "", "id-jogos": "", "comunidades-criadas": "", "comunidades-entradas": ""}
+{"id": "0", 
+"nome": "user01", 
+"email": "aaaaa1@a.com", 
+"senha": "senha", 
+"foto": "https://64.media.tumblr.com/1f7d99a8e77234f56a27cd1ad10fdc97/376583d200633922-61/s1280x1920/4e729b471e8adf1104064a1af6466d1d7ff57726.png", 
+"bio": "a abc adbc a", 
+"idJogos": [0, 1, 2, 3], 
+"comunidades-criadas": [], 
+"comunidades-entradas": []},
 
+{"id": "1", 
+"nome": "user02", 
+"email": "aaaaa2@a.com", 
+"senha": "senha", 
+"foto": "https://64.media.tumblr.com/1f7d99a8e77234f56a27cd1ad10fdc97/376583d200633922-61/s1280x1920/4e729b471e8adf1104064a1af6466d1d7ff57726.png", 
+"bio": "a abc adbc a", 
+"idJogos": [0, 1, 2, 3], 
+"comunidades-criadas": [], 
+"comunidades-entradas": []}
+],
 
+"games": [
+{"id": "0",
+"nome": "Counter Strike 2",
+"fotoIcon": "",
+"fotoCard": "img/cs-card.jpg",
+"fotoCover": ""
+},
 
+{"id": "1",
+"nome": "League of Legends",
+"fotoIcon": "",
+"fotoCard": "img/lol-card.jpeg",
+"fotoCover": ""
+},
 
+{"id": "2",
+"nome": "Rocket League",
+"fotoIcon": "",
+"fotoCard": "img/rocket-card.jpg",
+"fotoCover": ""
+},
+
+{"id": "3",
+"nome": "Valorant",
+"fotoIcon": "",
+"fotoCard": "img/valorant-card.jpg",
+"fotoCover": ""
+}
 ]
 }
