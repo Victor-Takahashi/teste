@@ -1,3 +1,9 @@
+import dynamic from 'next/dynamic'
+ 
+const DynamicHeader = dynamic(() => import('../components/header'), {
+  ssr: false,
+})
+
 URL1 = 'https://match-time-backend.vercel.app/users'
 URL2 = 'https://match-time-backend.vercel.app/games'
 
