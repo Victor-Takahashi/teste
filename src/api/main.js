@@ -5,7 +5,7 @@ const container = document.querySelector('.profile');
 const HeaderPfp = document.querySelector('.header-picture');
 
 
-//
+//funcao para checar se tem usuario cadastrado e mudar o header de acordo
 const renderHeaderPfp = async () => {
     const res1 = await fetch(URL1);
     const profiles = await res1.json();
