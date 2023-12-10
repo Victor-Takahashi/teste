@@ -1,6 +1,13 @@
 URL1 = 'https://match-time-backend.vercel.app/users'
 URL2 = 'https://match-time-backend.vercel.app/games'
 
+const { JSDOM } = require('jsdom');
+const fetch = require('node-fetch');
+
+// Simulate the DOM environment
+const dom = new JSDOM('<!DOCTYPE html><html><body><div id="header-picture"></div></body></html>');
+global.document = dom.window.document;
+
 const container = document.querySelector("#profile");
 const HeaderPfp = document.querySelector("#header-picture");
 
