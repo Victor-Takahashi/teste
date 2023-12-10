@@ -40,12 +40,12 @@
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                         <li class="nav-item">
-                            <a class="nav-link button-gamer" href="Catalog.html" aria-current="page"
-                                type="submit">Jogar
+                            <a class="nav-link button-gamer" href="Catalog.html" aria-current="page" type="submit">Jogar
                                 Agora</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link button-gamer" href="EventScreen.html" aria-current="page" type="submit">Eventos</a>
+                            <a class="nav-link button-gamer" href="EventScreen.html" aria-current="page"
+                                type="submit">Eventos</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link button-gamer" href="ReportChannel.html" aria-current="page"
@@ -58,12 +58,15 @@
                                 Comunidades
                             </a>
                             <ul class="dropdown-menu">
-                                <li><a class="dropdown-item dpdefect" href="my-community.html">Minhas Comunidades</a></li>
+                                <li><a class="dropdown-item dpdefect" href="my-community.html">Minhas Comunidades</a>
+                                </li>
                                 <li>
                                     <hr class="dropdown-divider">
                                 </li>
-                                <li><a class="dropdown-item dpdefect" href="communityCreate.html">Criar Comunidade</a></li>
-                                <li><a class="dropdown-item dpdefect" href="community.html">Encontre Comunidades</a></li>
+                                <li><a class="dropdown-item dpdefect" href="communityCreate.html">Criar Comunidade</a>
+                                </li>
+                                <li><a class="dropdown-item dpdefect" href="community.html">Encontre Comunidades</a>
+                                </li>
                             </ul>
                         </li>
                 </div>
@@ -83,7 +86,7 @@
         0 0 0.2em #87F">Salas Ativas</h1>
         <div class=" row" style="text-align: center;">
             <div class="col-lg-3 col-md-6 col-sm-12 mb-4" style="color: white">
-                <div class="box">
+                <div class="box" id="sala1">
                     <div class="row">
                         <div class="top">
                             <h4>Sala 1</h4>
@@ -100,7 +103,7 @@
                 </div>
             </div>
             <div class="col-lg-3 col-md-6 col-sm-12 mb-4" style="color: white">
-                <div class="box">
+                <div class="box" id="sala2">
                     <div class="row">
                         <div class="top">
                             <h4>Sala 2</h4>
@@ -117,7 +120,7 @@
                 </div>
             </div>
             <div class="col-lg-3 col-md-6 col-sm-12 mb-4" style="color: white">
-                <div class="box">
+                <div class="box" id="sala3">
                     <div class="row">
                         <div class="top">
                             <h4>Sala 3</h4>
@@ -134,7 +137,7 @@
                 </div>
             </div>
             <div class="col-lg-3 col-md-6 col-sm-12 mb-4" style="color: white">
-                <div class="box">
+                <div class="box" id="sala4">
                     <div class="row">
                         <div class="top">
                             <h4>Sala 4</h4>
@@ -153,7 +156,7 @@
         </div>
         <div class="row" style="text-align: center;">
             <div class="col-lg-3 col-md-6 col-sm-12 mb-4" style="color: white">
-                <div class="box">
+                <div class="box" id="sala5">
                     <div class="row">
                         <div class="top">
                             <h4>Sala 5</h4>
@@ -170,7 +173,7 @@
                 </div>
             </div>
             <div class="col-lg-3 col-md-6 col-sm-12 mb-4" style="color: white">
-                <div class="box">
+                <div class="box" id="sala6">
                     <div class="row">
                         <div class="top">
                             <h4>Sala 6</h4>
@@ -187,7 +190,7 @@
                 </div>
             </div>
             <div class="col-lg-3 col-md-6 col-sm-12 mb-4" style="color: white">
-                <div class="box">
+                <div class="box" id="sala7">
                     <div class="row">
                         <div class="top">
                             <h4>Sala 7</h4>
@@ -204,7 +207,7 @@
                 </div>
             </div>
             <div class="col-lg-3 col-md-6 col-sm-12 mb-4" style="color: white">
-                <div class="box">
+                <div class="box" id="sala8">
                     <div class="row">
                         <div class="top">
                             <h4>Sala 8</h4>
@@ -221,10 +224,12 @@
                 </div>
             </div>
         </div>
+
         <p style="margin-top: 50px;text-align: center; color:white;">Para jogar basta entrar em uma sala e lembre-se
             sempre
             de manter o respeito e educação com todos. Nossos moderadores estão de olho em você <img
-                src="img/olhar-icon.png" style="width: 50px;"> </p>
+                src="img/olhar-icon.png" style="width: 50px;">
+        </p>
 
     </div>
     <!-- final main body -->
@@ -243,7 +248,8 @@
                     <h5 class="mb-3" style="letter-spacing: 2px;">Comunidade</h5>
                     <ul class="list-unstyled mb-0">
                         <li class="mb-1">
-                            <a href="communityCreate.html" style="text-decoration: none; color: aqua;">Formador de equipe</a>
+                            <a href="communityCreate.html" style="text-decoration: none; color: aqua;">Formador de
+                                equipe</a>
                         </li>
                         <li class="mb-1">
                             <a href="community.html" style="text-decoration: none; color: aqua;">Grupo discord</a>
@@ -298,6 +304,7 @@
         integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
         crossorigin="anonymous"></script>
     <script src="/api/main.js"></script>
+    <script src="GameRoom.js"></script>
 </body>
 
 </html>
