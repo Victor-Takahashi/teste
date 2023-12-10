@@ -8,8 +8,8 @@ const fetch = require('node-fetch');
 const dom = new JSDOM('<!DOCTYPE html><html><body><div id="header-picture"></div></body></html>');
 global.document = dom.window.document;
 
-const container = document.querySelector("#profile");
-const HeaderPfp = document.querySelector("#header-picture");
+const container = dom.document.querySelector("#profile");
+const HeaderPfp = dom.document.querySelector("#header-picture");
 
 
 //funcao para checar se tem usuario logado e mudar o header de acordo
