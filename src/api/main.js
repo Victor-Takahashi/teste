@@ -1,7 +1,7 @@
 URL1 = 'https://match-time-backend.vercel.app/users'
 URL2 = 'https://match-time-backend.vercel.app/games'
 
-const container = document.querySelector('.profile');
+const container = document.querySelector("#profile");
 const HeaderPfp = document.querySelector("#header-picture");
 
 
