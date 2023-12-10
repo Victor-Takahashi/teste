@@ -5,13 +5,13 @@ const container = document.querySelector('.profile');
 const HeaderPfp = document.querySelector('.header-picture');
 
 
-// funcao que checa se tem usuario logado ou nao e muda o header de acordo
+//
 const renderHeaderPfp = async () => {
     const res1 = await fetch(URL1);
     const profiles = await res1.json();
     const idUsuarioLogado = localStorage.getItem("idUsuarioLogado");
 
-    if (localStorage.getItem("idUsuarioLogado")  == null || localStorage.getItem("idUsuarioLogado")  == -1) {
+    if (localStorage.getItem("idUsuarioLogado") == null || localStorage.getItem("idUsuarioLogado") == -1) {
         //console.log(localStorage.getItem("idUsuarioLogado"));
         let fotinha = '';
 
@@ -115,7 +115,6 @@ window.addEventListener('DOMContentLoaded', (e) => renderProfile());
 window.addEventListener('DOMContentLoaded', (e) => renderHeaderPfp());
 
 
-
 //funcao para validar usuario
 const validateUser = async (userEmail, userPassword) => {
     const res1 = await fetch(URL1);
@@ -125,6 +124,8 @@ const validateUser = async (userEmail, userPassword) => {
     var idUserFound = -1;
 
     profiles.forEach(user => {
+        //console.log(user.email);
+
         if (user.email == userEmail) {
             //console.log("Email encontrado");
 
@@ -145,6 +146,37 @@ const validateUser = async (userEmail, userPassword) => {
 
 }
 
+
+
+
+//funcao para cadastrar novo usuario
+const registerUser = async (userName, userEmail, userPassword) => {
+    const res1 = await fetch(URL1);
+    const profiles = await res1.json();
+
+    const newId = profiles.length;
+
+    const data = {
+        id: newId,
+        nome: userName,
+        email: userEmail,
+        senha: userPassword,
+        foto: "/img/perfil2.png",
+        bio: "",
+        idJogos: [],
+        comunidadesCriadas: [],
+        comunidadesEntradas: []
+    }
+
+    fetch(URL1, {
+        method: 'POST',
+        body: JSON.stringify(data),
+        headers: { 'Content-Type': 'application/json' }
+    })
+
+    alert("Usuário sendo criado com sucesso! Aguarde alguns instantes para fazer login.");
+    window.location.replace('/index.html');
+}
 
 //funcao pegar informacoes do login e chama funcao para validar usuario
 const formLogin = document.querySelector("#userLogin");
@@ -171,7 +203,28 @@ if (formLogin) {
 }
 
 const formRegister = document.querySelector("#userRegister");
-if(formRegister){
-    const fields = ["inputNameRegister","inputEmailRegister","inputPasswordConfirmRegister", "inputPasswordRegister"];
+if (formRegister) {
+    const fields = ["inputNameRegister", "inputEmailRegister", "inputPasswordRegister", "inputPasswordConfirmationRegister"];
+
+    formRegister.addEventListener("submit", (e) => {
+        e.preventDefault();
+
+        let userName = document.querySelector(`#${fields[0]}`).value;
+        let userEmail = document.querySelector(`#${fields[1]}`).value;
+        let userPassword = document.querySelector(`#${fields[2]}`).value;
+        let userPasswordConfirmation = document.querySelector(`#${fields[3]}`).value;
+
+        let emailAlreadyRegistered = false;
+
+        if (userEmail == false || userPassword == false || userName == false || userPasswordConfirmation == false) {
+            alert("Gentileza preencher todos os campos");
+        } else {
+            if (userPassword != userPasswordConfirmation) {
+                alert("As senhas não coincidem, gentileza tentar novamente.");
+            } else {               
+                registerUser(userName, userEmail, userPassword);
+            }
+        }
+    });
 }
 
