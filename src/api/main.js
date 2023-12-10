@@ -4,6 +4,8 @@ const DynamicHeader = dynamic(() => import('../components/header'), {
   ssr: false,
 })
 
+export default () => <DynamicComponentWithNoSSR />
+
 URL1 = 'https://match-time-backend.vercel.app/users'
 URL2 = 'https://match-time-backend.vercel.app/games'
 
