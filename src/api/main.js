@@ -112,8 +112,9 @@ const deslogar = async () => {
 }
 
 //chama funcoes sempre que pagina carrega
-window.addEventListener('DOMContentLoaded', (e) => renderProfile());
-window.addEventListener('DOMContentLoaded', (e) => renderHeaderPfp());
+//window.addEventListener('DOMContentLoaded', (e) => renderProfile());
+//window.addEventListener('DOMContentLoaded', (e) => renderHeaderPfp());
+window.onload = renderHeaderPfp();
 
 
 //funcao para validar usuario
