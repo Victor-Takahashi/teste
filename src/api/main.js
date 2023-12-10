@@ -1,8 +1,8 @@
 URL1 = 'https://match-time-backend.vercel.app/users'
 URL2 = 'https://match-time-backend.vercel.app/games'
 
-//const container = document.querySelector("#profile");
-//const HeaderPfp = document.querySelector("#header-picture");
+const container = document.querySelector("#profile");
+const HeaderPfp = document.querySelector("#header-picture");
 
 
 //funcao para checar se tem usuario logado e mudar o header de acordo
@@ -27,8 +27,8 @@ const renderHeaderPfp = async () => {
         </ul>
         `;
 
-        document.getElementById("#header-picture").innerHTML = fotinha;
-        //HeaderPfp.innerHTML = fotinha;
+        //document.getElementById("#header-picture").innerHTML = fotinha;
+        HeaderPfp.innerHTML = fotinha;
 
     } else {
         //console.log(localStorage.getItem("idUsuarioLogado"));
